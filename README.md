@@ -9,7 +9,7 @@ All my code is in the following paths:
 
 [./aztec-connect-bridges/src/bridges/apwine/](https://github.com/djaciel/aztek-apwine-bridge/tree/main/aztec-connect-bridges/src/bridges/apwine)
 
-[./aztec-connect-bridges/src/test/bridges/apwine/](https://github.com/djaciel/aztek-apwine-bridge/tree/main/aztec-connect-bridges/src/interfaces/apwine)
+[./aztec-connect-bridges/src/test/bridges/apwine/](https://github.com/djaciel/aztek-apwine-bridge/tree/main/aztec-connect-bridges/src/test/bridges/apwine)
 
 [./aztec-connect-bridges/src/deployment/apwine/](https://github.com/djaciel/aztek-apwine-bridge/tree/main/aztec-connect-bridges/src/deployment/apwine)
 
