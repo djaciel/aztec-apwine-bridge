@@ -1,4 +1,4 @@
-# Aztek ApWine Bridge
+# Aztec ApWine Bridge
 
 In this project I create a bridge to ApWine for the Aztec ecosystem.
 This code was made using Foundry framework.
